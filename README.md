@@ -1,3 +1,4 @@
+![logo](https://github.com/faizmshah/faizmshah/blob/main/faiz%20cover.png)
 <h1 align="center">Hi 👋, I'm Faiz Muhammad Shah</h1>
 <h3 align="center">A passionate MERN stack developer from Karachi Pakistan</h3>
 
